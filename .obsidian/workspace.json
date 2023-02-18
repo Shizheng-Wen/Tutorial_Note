@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "6a2b6f6ec1f49799",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ce9864662a97e4",
+        "type": "tabs",
+        "dimension": 24.81692432872254,
+        "children": [
+          {
+            "id": "289efea9eeab6ed8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++实现高性能并行计算.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fb7bf909831ca09",
+        "type": "tabs",
+        "dimension": 75.18307567127746,
+        "children": [
+          {
+            "id": "781abd250d311102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++实现高性能并行计算.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3614b29b251bb0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9658fb6ba2f20a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d7f26164d34901",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8859cb62e3281caf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bac3e0fad0eea0d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181.5
+  },
+  "right": {
+    "id": "8e1003591a785428",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3cd8b4a30d8981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8f6b08790e3ed1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++实现高性能并行计算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11833132f4e9abfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++实现高性能并行计算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef4e186fd8ea3763",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1cfd65f049e2952",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++实现高性能并行计算.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "781abd250d311102",
+  "lastOpenFiles": [
+    "Git.md",
+    "C++.md",
+    "C++实现高性能并行计算.md",
+    "Computer configuration.md",
+    "Linux.md",
+    "MarkDown.md",
+    "Python.md",
+    "PHOTO/gitlr1.jpg",
+    "PDF/git-cheat-sheet.pdf",
+    "PDF/Git用法.md"
+  ]
+}
